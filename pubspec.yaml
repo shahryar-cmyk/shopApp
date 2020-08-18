@@ -33,6 +33,7 @@ dependencies:
   provider: ^4.3.1
   # The Following package is used for DateTime String Manipulation
   intl: ^0.16.1
+  http: ^0.12.2
 dev_dependencies:
   flutter_test:
     sdk: flutter
