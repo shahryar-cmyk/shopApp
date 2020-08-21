@@ -30,10 +30,12 @@ dependencies:
   cupertino_icons: ^0.1.3
   # The following adds the State Management Solution  to your application.
   # Use with the Provider class with ChangeNotifier mixin to know where state changes.
-  provider: ^4.3.1
+  provider: ^4.3.2+1
   # The Following package is used for DateTime String Manipulation
   intl: ^0.16.1
   http: ^0.12.2
+  # The Following package is for storing the data in the Device
+  shared_preferences: ^0.5.8
 dev_dependencies:
   flutter_test:
     sdk: flutter
